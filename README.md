@@ -6,7 +6,7 @@ I love data, but needed some context about skills, salaries, positions within di
 
 ## Insights from the Top Paying Companies: Canada vs. Anywhere 💰
 
-![top_jobs](assets/top_jobs)
+![top_jobs](assets/top_jobs.png)
 ## **Salary Comparison: Canada vs. Anywhere** 🌍💲📊
 
 | Location  | Job Count | Mean Salary | Median Salary | Min Salary | Max Salary |
