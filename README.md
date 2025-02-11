@@ -1,9 +1,9 @@
 # SQL Project: Analysis of Data Jobs in 2023 📊
 
 ## Overview
-This project analyzes job postings for **Machine Learning Engineers** and **Data Scientists** in 2023. The goal is to uncover trends in job locations, salaries, required skills, and remote work opportunities. The analysis is conducted using SQL queries on a dataset of job postings, companies, and skills.
+This project analyzes job postings for **Machine Learning Engineers** and **Data Scientists** in 2023. The goal is to uncover trends in job locations, salaries, required skills, and remote work opportunities (due to I am really interested on both of them and not sure about thw skills I will need to focus on). The analysis is conducted using SQL queries on a dataset of job postings, companies, and skills.
 
-This project is part of my portfolio for **Machine Learning and Data Science** roles, showcasing my ability to extract meaningful insights from data using SQL.
+This project is part of my portfolio for **Machine Learning and Data Science** roles, showcasing my ability to extract meaningful insights from data using SQL. The original dataset was presented ans shared by Luke Barousse on Youtube [(Here his channel)](https://www.youtube.com/@LukeBarousse). I am gratefull for his teaching.
 
 ---
 
@@ -70,6 +70,7 @@ UNION ALL
 | 1131472  | Data Scientist                                | Anywhere     | Full-time         | 375000.0        | 2023-07-31 14:05:21   | Algo Capital Group |
 | ...      | ...                                            | ...          | ...               | ...             | ...                   | ...                |
 
+![Visualization of Query 1](assets/1_top_paying_jobs_chart.png)
 #### Insights:
 - **Top Salaries in Canada**: The highest-paying role in Canada is **Staff Strategic Data Scientist** at **Course Hero**, offering a salary of **$224,000**. Other high-paying roles include **Machine Learning Engineer** at **Autodesk** ($190,000) and **Data Scientist** at **Wish** ($180,000).
 - **Remote Roles**: Remote roles offer significantly higher salaries, with the top-paying role being **Staff Data Scientist/Quant Researcher** at **Selby Jennings**, offering **$550,000**. Other high-paying remote roles include **Staff Data Scientist - Business Analytics** ($525,000) and **Data Scientist** at **Algo Capital Group** ($375,000).
